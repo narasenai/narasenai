@@ -4,14 +4,14 @@
 Me chamo Nara Fontenele,  sou natural do Piauí. Estou no terceiro ano do ensino médio. Estou cursando Informática para Internet. 
 
 <p align="left">
-    <a href="https://www.youtube.com/@luzardoSENAI?sub_confirmation=1">
+    <a href="https://www.youtube.com/narasenai?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@luzardoSENAI">
+    <a href="https://www.youtube.com/@narasenai">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
@@ -25,7 +25,7 @@ Me chamo Nara Fontenele,  sou natural do Piauí. Estou no terceiro ano do ensino
             src="https://custom-icon-badges.demolab.com/github/stars/luzardoSENAI?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/luzardoSENAI?tab=followers">
+    <a href="https://github.com/narasenai?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
